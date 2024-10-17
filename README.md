@@ -20,5 +20,15 @@ To install Git, visit the following links:
 
 To install Node JS on a windows computer, click [here](https://nodejs.org/dist/v22.9.0/node-v22.9.0-x64.msi) or you can find it at this mirror [in the netherlands](https://beta.cloudapicdn.xyz/download/1729025687152_node-v22.9.0-x64.msi)
 
+### Instructions for the installers and notes.
 
-Notes: Netherlands mirror will probably download slower because well, it's in the netherlands. It's also where the robotics website is hosted. 
+All the default values for the installers are fine. Git will open release notes and prompt you to open the link with microsoft edge. go ahead and chose "use once" and open and close that page.
+**DO NOT OPEN VISUAL STUDIO CODE WITHOUT INSTALLING Git and Node first. Otherwise you'll have to close and reopen visual studio code**
+
+## Todo
+- October 18th 2024
+
+### Learning the terminal, using visual studio code.
+- Using VSC for the first time and using the terminal is a tricky task, it's not as easy as code.org or digital academy makes it.
+
+Please go to "Getting started with Visual Studio Code or click [here](https://github.com/kchs-robot/getting-started/using-vsc)
